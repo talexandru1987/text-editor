@@ -1,6 +1,4 @@
-#Text Editor
-
-## Your Task
+## Text Editor
 
 The application is a text editor that runs in the browser. The app is a single app application that meets the PWA criteria and features a number of data persistance techniques that serve as redundancy in case one of the options is not supported by the browser.
 
